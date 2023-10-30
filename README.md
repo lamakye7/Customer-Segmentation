@@ -6,7 +6,6 @@
 * [What is this Repo About?](#what)
 * [Overview](#ov)
 * [Business Problem](#bp)
-* [Data Understanding](#ds)
 * [Conclusion and Recommendation](#rec)
 * [Certificate](#cf)
 
