@@ -10,7 +10,7 @@
 * [Certificate](#cf)
 
 ## What is this Repo About<a name="what"></a>  
-This repository contains one Jupyter notebook that has all the code for data cleansing, EDA and machine machine, power bi file and . 
+This repository contains one Jupyter notebook that has all the code for data cleansing, EDA and machine machine, power bi file and power point file of project plan. 
 
 ## Overview<a name="ov"></a>
 <details>
